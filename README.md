@@ -10,15 +10,6 @@ of the store. An `Aisle` class and a `Product` class have been provided for you 
 and is also provided for you (it should not be modified). It expects the other classes to be
 available and uses them to produce the output shown below.
 
-## Assignment Submission
-You will submit your assignment using GitHub Classroom.  When you are finished and want to make your final submission, use the checkin comment "FINAL SUBMISSION":
-
-        git add .
-        git commit -m "FINAL SUBMISSION"
-        git push origin main
-
-Any submission not having this comment will be assumed to be a work-in-progress and therefore will be ignored.  This implies that you must make your final push with this commit comment before the deadline.
-
 ## Input
 None.  All input for the program is hard-coded in the starter code provided.
 
